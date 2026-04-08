@@ -1,6 +1,6 @@
 import random
 from poseClass import pose
-
+#NEWCOMMENT
 #Pose library
 #Pose class comprises (id, name, intensity, primary, secondary, is_warmUp, is_yin, is_vinyasa, is_power, is_coolDown)
 #Similar poses are grouped together
