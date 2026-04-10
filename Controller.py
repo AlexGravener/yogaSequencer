@@ -1,9 +1,10 @@
 from PoseReporistory import PoseRepository
-from StyleYin importStyleYin
+from StyleYin import StyleYin
 from StyleVinyasa import StyleVinyasa
 from StylePower import StylePower
 from RoutineParameters import RoutinePrameters
 from Pose import Pose
+
 
 class Controller:
 
